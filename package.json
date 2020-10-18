@@ -1,0 +1,8 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RyanBan/typechain.git",
+  "author": "RyanBan <45275840+RyanBan@users.noreply.github.com>",
+  "license": "MIT"
+}
