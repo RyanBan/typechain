@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/RyanBan/typechain.git",
   "author": "RyanBan <45275840+RyanBan@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \" node-dist/index.js\" "
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.2.9"
+  }
 }
